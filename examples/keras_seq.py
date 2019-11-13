@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# DCASE 2017::Detection of rare sound events / Baseline System
+# DCASE 2017::Detection of rare sound events / Baseline System1
 
 
 from __future__ import print_function, absolute_import
